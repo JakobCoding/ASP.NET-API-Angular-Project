@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bossman\\Desktop\\DatingApp\\API\\API.csproj": {}
+    "C:\\Users\\Bossman\\Desktop\\DatingApp\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bossman\\Desktop\\DatingApp\\API\\API.csproj": {
+    "C:\\Users\\Bossman\\Desktop\\DatingApp\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bossman\\Desktop\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Bossman\\Desktop\\DatingApp\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Bossman\\Desktop\\DatingApp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\Bossman\\Desktop\\DatingApp\\api\\API.csproj",
         "packagesPath": "C:\\Users\\Bossman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bossman\\Desktop\\DatingApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\Bossman\\Desktop\\DatingApp\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bossman\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,16 +39,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[7.0.4, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.4.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
